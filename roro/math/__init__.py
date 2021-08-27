@@ -1,0 +1,1 @@
+from .filea import prime
